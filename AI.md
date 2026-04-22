@@ -51,5 +51,7 @@ get_anime_count_by_year
 get_top_genres
 
 get_top_studios
+
 get_score_band_summary
+
 get_popularity_band_summary
