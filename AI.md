@@ -1,15 +1,12 @@
-## AI Written Functions
+## AI Assisted Functions
 
-1. `normalize_anime_data()`
+1. normalize_anime_data() Logic self-devised, code AI-written for efficiency
 
+2. preprocess_anime_data()   Logic self-devised, code AI-written for efficiency
 
-2. `preprocess_anime_data()`
+3. run_pipeline()  Code AI-written for efficiency
 
-
-3. `run_pipeline()`
-
-
-4. `TestAnimePipelineFunctions`
+4. TestAnimePipelineFunctions  Written by AI
 
 
 ## Hand Written Functions
